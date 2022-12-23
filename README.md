@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+
+- 🏢 I'm currently working as Frontend Developer at Vouch Singapore
 - 🌱 I’m currently learning **Vue and Typescript**
-
+- ⚙️ I use daily: .ts, .css, .html, .svg
 - 👨‍💻 All of my projects are available at [github.com/amalianrlt](github.com/amalianrlt)
-
 - 📫 How to reach me **amalianrlt@gmail.com**
+- 💬 Ping me about design, and web development
+- 👯 I’m looking to collaborate on open source/commercial projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
